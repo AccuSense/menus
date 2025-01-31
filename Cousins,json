@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "name": "Home",
+      "link": "#"
+    },
+    {
+      "name": "About",
+      "link": "#",
+      "subMenu": [
+        {
+          "name": "Team",
+          "link": "#team"
+        },
+        {
+          "name": "History",
+          "link": "#history"
+        }
+      ]
+    }
+  ]
+}
