@@ -1,23 +1,59 @@
 {
   "menu": [
     {
-      "name": "Real Time Portfolio Overview",
-      "link": "#"
-      "icon": "fas fa-grip"
+      "name": "Home",
+      "link": "#",
+      "icon": "home"
     },
     {
       "name": "About",
       "link": "#",
+      "icon": "info",
       "subMenu": [
         {
           "name": "Team",
-          "link": "#team"
+          "link": "#team",
+          "icon": "group"
         },
         {
           "name": "History",
-          "link": "#history"
+          "link": "#history",
+          "icon": "history"
+        },
+        {
+          "name": "Mission",
+          "link": "#mission",
+          "icon": "flag"
         }
       ]
+    },
+    {
+      "name": "Services",
+      "link": "#",
+      "icon": "build",
+      "subMenu": [
+        {
+          "name": "Consulting",
+          "link": "#consulting",
+          "icon": "work"
+        },
+        {
+          "name": "Development",
+          "link": "#development",
+          "icon": "code"
+        },
+        {
+          "name": "Design",
+          "link": "#design",
+          "icon": "brush"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "link": "#contact",
+      "icon": "mail"
     }
   ]
 }
+
