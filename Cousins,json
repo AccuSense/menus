@@ -221,6 +221,16 @@
         }
       ]
     },
+         {
+      "name": "History",
+      "link": "#",
+      "icon": "history"
+    },
+     {
+      "name": "Reporting",
+      "link": "#",
+      "icon": "contract"
+    },
     {
       "name": "Support",
       "link": "https://accusense.io/support/",
