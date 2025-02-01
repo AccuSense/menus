@@ -1,26 +1,60 @@
 {
   "menu": [
     {
-      "name": "Home",
-      "link": "/home",
+      "name": "Portfolio Overview",
+      "link": "#",
       "icon": "home"
     },
     {
-      "name": "Settings",
-      "link": "#",  // This link will not navigate anywhere
-      "icon": "settings",
+      "name": "About",
+      "link": "#",
+      "icon": "info",
       "subMenu": [
         {
-          "name": "Profile",
-          "link": "/profile",
-          "icon": "person"
+          "name": "Team",
+          "link": "#team",
+          "icon": "group"
         },
         {
-          "name": "Account",
-          "link": "/account",
-          "icon": "account_circle"
+          "name": "History",
+          "link": "#history",
+          "icon": "history"
+        },
+        {
+          "name": "Mission",
+          "link": "#mission",
+          "icon": "flag"
         }
       ]
+    },
+    {
+      "name": "Services",
+      "link": "#",
+      "icon": "build",
+      "subMenu": [
+        {
+          "name": "Consulting",
+          "link": "#consulting",
+          "icon": "work"
+        },
+        {
+          "name": "Development",
+          "link": "#development",
+          "icon": "code"
+        },
+        {
+          "name": "Design",
+          "link": "#design",
+          "icon": "brush"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "link": "#contact",
+      "icon": "mail"
     }
   ]
 }
+
+
