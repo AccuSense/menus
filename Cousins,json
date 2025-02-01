@@ -224,12 +224,12 @@
          {
       "name": "History",
       "link": "#",
-      "icon": "schedule"
+      "icon": "history"
     },
      {
       "name": "Reporting",
       "link": "#",
-      "icon": "contract"
+      "icon": "description"
     },
     {
       "name": "Support",
