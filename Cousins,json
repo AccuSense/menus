@@ -8,7 +8,7 @@
     {
       "name": "Corporate Center 1",
       "link": "#",
-      "icon": "trending",
+      "icon": "timeline",
       "subMenu": [
         {
           "name": "Overview",
