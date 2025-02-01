@@ -8,22 +8,27 @@
     {
       "name": "Corporate Center 1",
       "link": "#",
-      "icon": "info",
+      "icon": "apartment",
       "subMenu": [
         {
           "name": "Overview",
           "link": "#team",
-          "icon": "group"
+          "icon": "monitoring"
         },
         {
           "name": "Occupancy",
           "link": "#history",
-          "icon": "history"
+          "icon": "groups"
         },
         {
-          "name": "Mission",
+          "name": "Restrooms",
           "link": "#mission",
-          "icon": "flag"
+          "icon": "wc"
+        },
+        {
+          "name": "Parking",
+          "link": "#mission",
+          "icon": "local_parking"
         }
       ]
     },
