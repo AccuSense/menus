@@ -7,7 +7,7 @@
     },
     {
       "name": "About",
-      "link": "#",
+      "link": "",
       "icon": "info",
       "subMenu": [
         {
