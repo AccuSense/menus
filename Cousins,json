@@ -2,12 +2,12 @@
   "menu": [
     {
       "name": "Portfolio Overview",
-      "link": "#",
+      "link": "https://dashboard.accusense.io/dashboards/all/148c3810-dff5-11ef-8b65-7bca30bb7b2d?state=W3siaWQiOiJkZWZhdWx0IiwicGFyYW1zIjp7fX1d",
       "icon": "real_estate_agent"
     },
     {
       "name": "Corporate Center 1",
-      "link": "#",
+      "link": "https://dashboard.accusense.io/dashboards/all/148c3810-dff5-11ef-8b65-7bca30bb7b2d?state=W3siaWQiOiJ0ZXN0MiIsInBhcmFtcyI6e319XQ%253D%253D",
       "icon": "apartment",
       "subMenu": [
         {
