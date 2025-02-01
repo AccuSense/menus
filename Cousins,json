@@ -7,12 +7,12 @@
     },
     {
       "name": "Corporate Center 1",
-      "link": "https://dashboard.accusense.io/dashboards/all/148c3810-dff5-11ef-8b65-7bca30bb7b2d?state=W3siaWQiOiJ0ZXN0MiIsInBhcmFtcyI6e319XQ%253D%253D",
+      "link": "#",
       "icon": "apartment",
       "subMenu": [
         {
           "name": "Overview",
-          "link": "#team",
+          "link": "https://dashboard.accusense.io/dashboards/all/148c3810-dff5-11ef-8b65-7bca30bb7b2d?state=W3siaWQiOiJ0ZXN0MiIsInBhcmFtcyI6e319XQ%253D%253D",
           "icon": "troubleshoot"
         },
         {
