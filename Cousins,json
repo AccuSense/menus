@@ -6,227 +6,234 @@
       "icon": "home"
     },
     {
-      "name": "Corporate Center 1",
+      "name": "Individual Properties",
       "link": "#",
-      "icon": "apartment",
+      "icon": "business",
       "subMenu": [
         {
-          "name": "Overview",
-          "link": "https://dashboard.accusense.io/dashboards/all/148c3810-dff5-11ef-8b65-7bca30bb7b2d?state=W3siaWQiOiJ0ZXN0MiIsInBhcmFtcyI6e319XQ%253D%253D",
-          "icon": "troubleshoot"
+          "name": "Corporate Center 1",
+          "link": "#",
+          "icon": "apartment",
+          "subMenu": [
+            {
+              "name": "Overview",
+              "link": "https://dashboard.accusense.io/dashboards/all/148c3810-dff5-11ef-8b65-7bca30bb7b2d?state=W3siaWQiOiJ0ZXN0MiIsInBhcmFtcyI6e319XQ%253D%253D",
+              "icon": "troubleshoot"
+            },
+            {
+              "name": "Occupancy",
+              "link": "#history",
+              "icon": "groups"
+            },
+            {
+              "name": "Restrooms",
+              "link": "#mission",
+              "icon": "wc"
+            },
+            {
+              "name": "Parking",
+              "link": "#mission",
+              "icon": "local_parking"
+            }
+          ]
         },
         {
-          "name": "Occupancy",
-          "link": "#history",
-          "icon": "groups"
+          "name": "Corporate Center 2",
+          "link": "#",
+          "icon": "apartment",
+          "subMenu": [
+            {
+              "name": "Overview",
+              "link": "#team",
+              "icon": "troubleshoot"
+            },
+            {
+              "name": "Occupancy",
+              "link": "#history",
+              "icon": "groups"
+            },
+            {
+              "name": "Restrooms",
+              "link": "#mission",
+              "icon": "wc"
+            },
+            {
+              "name": "Parking",
+              "link": "#mission",
+              "icon": "local_parking"
+            }
+          ]
         },
         {
-          "name": "Restrooms",
-          "link": "#mission",
-          "icon": "wc"
+          "name": "Corporate Center 3",
+          "link": "#",
+          "icon": "apartment",
+          "subMenu": [
+            {
+              "name": "Overview",
+              "link": "#team",
+              "icon": "troubleshoot"
+            },
+            {
+              "name": "Occupancy",
+              "link": "#history",
+              "icon": "groups"
+            },
+            {
+              "name": "Restrooms",
+              "link": "#mission",
+              "icon": "wc"
+            },
+            {
+              "name": "Parking",
+              "link": "#mission",
+              "icon": "local_parking"
+            }
+          ]
         },
         {
-          "name": "Parking",
-          "link": "#mission",
-          "icon": "local_parking"
+          "name": "Corporate Center 4",
+          "link": "#",
+          "icon": "apartment",
+          "subMenu": [
+            {
+              "name": "Overview",
+              "link": "#team",
+              "icon": "troubleshoot"
+            },
+            {
+              "name": "Occupancy",
+              "link": "#history",
+              "icon": "groups"
+            },
+            {
+              "name": "Restrooms",
+              "link": "#mission",
+              "icon": "wc"
+            },
+            {
+              "name": "Parking",
+              "link": "#mission",
+              "icon": "local_parking"
+            }
+          ]
+        },
+        {
+          "name": "Harbor View",
+          "link": "#",
+          "icon": "apartment",
+          "subMenu": [
+            {
+              "name": "Overview",
+              "link": "#team",
+              "icon": "troubleshoot"
+            },
+            {
+              "name": "Occupancy",
+              "link": "#history",
+              "icon": "groups"
+            },
+            {
+              "name": "Restrooms",
+              "link": "#mission",
+              "icon": "wc"
+            },
+            {
+              "name": "Parking",
+              "link": "#mission",
+              "icon": "local_parking"
+            }
+          ]
+        },
+        {
+          "name": "Heights Union East",
+          "link": "#",
+          "icon": "apartment",
+          "subMenu": [
+            {
+              "name": "Overview",
+              "link": "#team",
+              "icon": "troubleshoot"
+            },
+            {
+              "name": "Occupancy",
+              "link": "#history",
+              "icon": "groups"
+            },
+            {
+              "name": "Restrooms",
+              "link": "#mission",
+              "icon": "wc"
+            },
+            {
+              "name": "Parking",
+              "link": "#mission",
+              "icon": "local_parking"
+            }
+          ]
+        },
+        {
+          "name": "Heights Union West",
+          "link": "#",
+          "icon": "apartment",
+          "subMenu": [
+            {
+              "name": "Overview",
+              "link": "#team",
+              "icon": "troubleshoot"
+            },
+            {
+              "name": "Occupancy",
+              "link": "#history",
+              "icon": "groups"
+            },
+            {
+              "name": "Restrooms",
+              "link": "#mission",
+              "icon": "wc"
+            },
+            {
+              "name": "Parking",
+              "link": "#mission",
+              "icon": "local_parking"
+            }
+          ]
+        },
+        {
+          "name": "The Pointe",
+          "link": "#",
+          "icon": "apartment",
+          "subMenu": [
+            {
+              "name": "Overview",
+              "link": "#team",
+              "icon": "troubleshoot"
+            },
+            {
+              "name": "Occupancy",
+              "link": "#history",
+              "icon": "groups"
+            },
+            {
+              "name": "Restrooms",
+              "link": "#mission",
+              "icon": "wc"
+            },
+            {
+              "name": "Parking",
+              "link": "#mission",
+              "icon": "local_parking"
+            }
+          ]
         }
       ]
     },
     {
-      "name": "Corporate Center 2",
-      "link": "#",
-      "icon": "apartment",
-      "subMenu": [
-        {
-          "name": "Overview",
-          "link": "#team",
-          "icon": "troubleshoot"
-        },
-        {
-          "name": "Occupancy",
-          "link": "#history",
-          "icon": "groups"
-        },
-        {
-          "name": "Restrooms",
-          "link": "#mission",
-          "icon": "wc"
-        },
-        {
-          "name": "Parking",
-          "link": "#mission",
-          "icon": "local_parking"
-        }
-      ]
-    },
-    {
-      "name": "Corporate Center 3",
-      "link": "#",
-      "icon": "apartment",
-      "subMenu": [
-        {
-          "name": "Overview",
-          "link": "#team",
-          "icon": "troubleshoot"
-        },
-        {
-          "name": "Occupancy",
-          "link": "#history",
-          "icon": "groups"
-        },
-        {
-          "name": "Restrooms",
-          "link": "#mission",
-          "icon": "wc"
-        },
-        {
-          "name": "Parking",
-          "link": "#mission",
-          "icon": "local_parking"
-        }
-      ]
-    },
-    {
-      "name": "Corporate Center 4",
-      "link": "#",
-      "icon": "apartment",
-      "subMenu": [
-        {
-          "name": "Overview",
-          "link": "#team",
-          "icon": "troubleshoot"
-        },
-        {
-          "name": "Occupancy",
-          "link": "#history",
-          "icon": "groups"
-        },
-        {
-          "name": "Restrooms",
-          "link": "#mission",
-          "icon": "wc"
-        },
-        {
-          "name": "Parking",
-          "link": "#mission",
-          "icon": "local_parking"
-        }
-      ]
-    },
-    {
-      "name": "Harbor View",
-      "link": "#",
-      "icon": "apartment",
-      "subMenu": [
-        {
-          "name": "Overview",
-          "link": "#team",
-          "icon": "troubleshoot"
-        },
-        {
-          "name": "Occupancy",
-          "link": "#history",
-          "icon": "groups"
-        },
-        {
-          "name": "Restrooms",
-          "link": "#mission",
-          "icon": "wc"
-        },
-        {
-          "name": "Parking",
-          "link": "#mission",
-          "icon": "local_parking"
-        }
-      ]
-    },
-    {
-      "name": "Heights Union East",
-      "link": "#",
-      "icon": "apartment",
-      "subMenu": [
-        {
-          "name": "Overview",
-          "link": "#team",
-          "icon": "troubleshoot"
-        },
-        {
-          "name": "Occupancy",
-          "link": "#history",
-          "icon": "groups"
-        },
-        {
-          "name": "Restrooms",
-          "link": "#mission",
-          "icon": "wc"
-        },
-        {
-          "name": "Parking",
-          "link": "#mission",
-          "icon": "local_parking"
-        }
-      ]
-    },
-    {
-      "name": "Heights Union West",
-      "link": "#",
-      "icon": "apartment",
-      "subMenu": [
-        {
-          "name": "Overview",
-          "link": "#team",
-          "icon": "troubleshoot"
-        },
-        {
-          "name": "Occupancy",
-          "link": "#history",
-          "icon": "groups"
-        },
-        {
-          "name": "Restrooms",
-          "link": "#mission",
-          "icon": "wc"
-        },
-        {
-          "name": "Parking",
-          "link": "#mission",
-          "icon": "local_parking"
-        }
-      ]
-    },
-    {
-      "name": "The Pointe",
-      "link": "#",
-      "icon": "apartment",
-      "subMenu": [
-        {
-          "name": "Overview",
-          "link": "#team",
-          "icon": "troubleshoot"
-        },
-        {
-          "name": "Occupancy",
-          "link": "#history",
-          "icon": "groups"
-        },
-        {
-          "name": "Restrooms",
-          "link": "#mission",
-          "icon": "wc"
-        },
-        {
-          "name": "Parking",
-          "link": "#mission",
-          "icon": "local_parking"
-        }
-      ]
-    },
-         {
       "name": "History",
       "link": "#",
       "icon": "history"
     },
-     {
+    {
       "name": "Reporting",
       "link": "#",
       "icon": "description"
@@ -238,5 +245,3 @@
     }
   ]
 }
-
-
