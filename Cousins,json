@@ -3,7 +3,7 @@
     {
       "name": "Portfolio Overview",
       "link": "#",
-      "icon": "troubleshoot"
+      "icon": "stacks"
     },
     {
       "name": "Corporate Center 1",
@@ -13,7 +13,7 @@
         {
           "name": "Overview",
           "link": "#team",
-          "icon": "monitoring"
+          "icon": "troubleshoot"
         },
         {
           "name": "Occupancy",
