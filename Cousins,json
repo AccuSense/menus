@@ -6,17 +6,17 @@
       "icon": "home"
     },
     {
-      "name": "About",
+      "name": "Corporate Center 1",
       "link": "#",
       "icon": "info",
       "subMenu": [
         {
-          "name": "Team",
+          "name": "Overview",
           "link": "#team",
           "icon": "group"
         },
         {
-          "name": "History",
+          "name": "Occupancy",
           "link": "#history",
           "icon": "history"
         },
