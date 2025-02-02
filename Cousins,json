@@ -229,16 +229,6 @@
       ]
     },
     {
-      "name": "History",
-      "link": "#",
-      "icon": "history"
-    },
-    {
-      "name": "Reporting",
-      "link": "#",
-      "icon": "description"
-    },
-    {
       "name": "Support",
       "link": "https://accusense.io/support/",
       "icon": "help"
