@@ -32,7 +32,7 @@
             },
             {
               "name": "Restrooms",
-              "link": "#mission",
+              "link": "https://dashboard.accusense.io/dashboards/all/148c3810-dff5-11ef-8b65-7bca30bb7b2d?state=W3siaWQiOiJwb3J0Zm9saW9PdmVydmlldyIsInBhcmFtcyI6e319LHsiaWQiOiJwb3J0Zm9saW9PdmVydmlldyIsInBhcmFtcyI6eyJlbnRpdHlJZCI6eyJlbnRpdHlUeXBlIjoiQVNTRVQiLCJpZCI6IjNmYzU4MzUwLWUyNGUtMTFlZi04YjY1LTdiY2EzMGJiN2IyZCJ9LCJlbnRpdHlOYW1lIjoiQ0MyIiwiZW50aXR5TGFiZWwiOiJDb3Jwb3JhdGUgQ2VudGVyIDIifX0seyJpZCI6InBvcnRmb2xpb092ZXJ2aWV3IiwicGFyYW1zIjp7ImVudGl0eUlkIjp7ImVudGl0eVR5cGUiOiJBU1NFVCIsImlkIjoiM2ZjNTgzNTAtZTI0ZS0xMWVmLThiNjUtN2JjYTMwYmI3YjJkIn0sImVudGl0eU5hbWUiOiJDQzIiLCJlbnRpdHlMYWJlbCI6IkNvcnBvcmF0ZSBDZW50ZXIgMiJ9fSx7ImlkIjoiYnVpbGRpbmdPdmVydmlldyIsInBhcmFtcyI6eyJlbnRpdHlJZCI6eyJlbnRpdHlUeXBlIjoiQVNTRVQiLCJpZCI6IjQ2MWY4MTgwLWUyNDctMTFlZi1hMTBjLTdmNWE0OGQyNGYyNSJ9LCJlbnRpdHlOYW1lIjoiQ0MxIiwiZW50aXR5TGFiZWwiOiJDb3Jwb3JhdGUgQ2VudGVyIDEifX1d",
               "icon": "wc"
             },
             {
