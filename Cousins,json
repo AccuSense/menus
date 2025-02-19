@@ -44,7 +44,7 @@
           "subMenu": [
             {
               "name": "Overview",
-              "link": "#team",
+              "link": "https://dashboard.accusense.io/dashboards/all/148c3810-dff5-11ef-8b65-7bca30bb7b2d?state=W3siaWQiOiJwb3J0Zm9saW9PdmVydmlldyIsInBhcmFtcyI6e319LHsiaWQiOiJidWlsZGluZ092ZXJ2aWV3IiwicGFyYW1zIjp7ImVudGl0eUlkIjp7ImVudGl0eVR5cGUiOiJBU1NFVCIsImlkIjoiM2ZjNTgzNTAtZTI0ZS0xMWVmLThiNjUtN2JjYTMwYmI3YjJkIn0sImVudGl0eU5hbWUiOiJDQzIiLCJlbnRpdHlMYWJlbCI6IkNvcnBvcmF0ZSBDZW50ZXIgMiJ9fV0%253D",
               "icon": "troubleshoot"
             },
             {
