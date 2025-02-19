@@ -6,6 +6,11 @@
       "icon": "home"
     },
     {
+      "name": "Reporting & History",
+      "link": "https://dashboard.accusense.io/dashboards/all/148c3810-dff5-11ef-8b65-7bca30bb7b2d?state=W3siaWQiOiJwb3J0Zm9saW9PdmVydmlldyIsInBhcmFtcyI6e319LHsiaWQiOiJyZXBvcnRpbmciLCJwYXJhbXMiOnsiZW50aXR5SWQiOnsiZW50aXR5VHlwZSI6IkFTU0VUIiwiaWQiOiIzZmM1ODM1MC1lMjRlLTExZWYtOGI2NS03YmNhMzBiYjdiMmQifSwiZW50aXR5TmFtZSI6IkNDMiIsImVudGl0eUxhYmVsIjoiQ29ycG9yYXRlIENlbnRlciAyIn19XQ%253D%253D",
+      "icon": "history"
+    },
+    {
       "name": "Individual Properties",
       "link": "#",
       "icon": "business",
